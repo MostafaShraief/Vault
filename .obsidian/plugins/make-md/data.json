@@ -43,7 +43,8 @@
     "//Daily Notes",
     "//export",
     "//export/export/Words",
-    "//Vault"
+    "//Vault",
+    "//English"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

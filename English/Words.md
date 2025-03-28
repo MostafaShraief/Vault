@@ -51,3 +51,4 @@ Pumped (عامية) | متحمس جدًا ومُتحفز [[Explanttion#5. Pumped
 
 agitation | احتجاج - اثارة - تحريض
 reform |  إصلاح - يصلح يقوّم يحسن
+Staff | طاقم - هيئة

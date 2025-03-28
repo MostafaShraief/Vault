@@ -11,10 +11,14 @@
             "id": "81e5f70fbe9e853a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "English/Words.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Words"
             }
           }
         ]
@@ -81,7 +85,7 @@
             }
           },
           {
-            "id": "ceeb422e03babef1",
+            "id": "2bb76405d19a0928",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -210,6 +214,7 @@
   },
   "active": "81e5f70fbe9e853a",
   "lastOpenFiles": [
+    "English/English.md",
     "Excalidraw/C. Combination Lock - CodeForces.excalidraw.md",
     "Vault.md",
     "قرآن/قرآن.md",
@@ -217,7 +222,6 @@
     "Vault",
     "قرآن/ختمة رمضان.canvas",
     "English/Words.md",
-    "English/English.md",
     "Coding/Ideas/ToDo.md",
     "Coding/Learning/Learning.md",
     "Coding/Coding.md",
