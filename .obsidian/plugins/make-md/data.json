@@ -43,9 +43,7 @@
     "//Daily Notes",
     "//export",
     "//export/export/Words",
-    "//قرآن",
-    "//Vault",
-    "//Excalidraw"
+    "//Vault"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

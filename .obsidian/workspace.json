@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be38a5172d0e49fa",
+        "id": "a33a832f35772160",
         "type": "tabs",
         "children": [
           {
-            "id": "0da078f6d27a1d73",
+            "id": "81e5f70fbe9e853a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Excalidraw"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Excalidraw"
+              "title": "New tab"
             }
           }
         ]
@@ -210,15 +208,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22fb73a7f6abd95e",
+  "active": "81e5f70fbe9e853a",
   "lastOpenFiles": [
+    "Excalidraw/C. Combination Lock - CodeForces.excalidraw.md",
+    "Vault.md",
+    "قرآن/قرآن.md",
     "Excalidraw/Excalidraw.md",
     "Vault",
-    "Vault.md",
     "قرآن/ختمة رمضان.canvas",
     "English/Words.md",
     "English/English.md",
-    "قرآن/قرآن.md",
     "Coding/Ideas/ToDo.md",
     "Coding/Learning/Learning.md",
     "Coding/Coding.md",
@@ -249,7 +248,6 @@
     "export/Words/plugin/menu/CONTRIBUTING.md",
     "English/Explanttion.md",
     "Untitled Kanban.md",
-    "Excalidraw/C. Combination Lock - CodeForces.excalidraw.md",
     "Images/Images.md",
     "Coding/Ideas/Ideas.md",
     "Coding/Projects/Projects.md",
