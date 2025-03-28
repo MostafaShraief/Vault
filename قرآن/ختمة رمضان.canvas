@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a8c3e50622ba69d5","type":"text","text":"جزء رابع 2:46 - 3:13","x":-410,"y":80,"width":250,"height":60},
+		{"id":"ea559bd0726de45e","type":"text","text":"جزء ثالث نهاية 2:40","x":-385,"y":-40,"width":200,"height":60},
+		{"id":"4d870c5795b95d02","type":"text","text":"جزء 5 (11:54) -> (12:54)","x":-410,"y":220,"width":250,"height":60},
+		{"id":"c37661e11562dc87","type":"text","text":"جزء 6 (12:54) -> (1:33)","x":-410,"y":340,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"3ffb430cad5ff807","fromNode":"ea559bd0726de45e","fromSide":"bottom","toNode":"a8c3e50622ba69d5","toSide":"top"},
+		{"id":"5026e31fd00084aa","fromNode":"a8c3e50622ba69d5","fromSide":"bottom","toNode":"4d870c5795b95d02","toSide":"top"},
+		{"id":"d2f0705e8eb86e1d","fromNode":"4d870c5795b95d02","fromSide":"bottom","toNode":"c37661e11562dc87","toSide":"top"}
+	]
+}

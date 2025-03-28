@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"eac9803597bab227","x":-197,"y":-33,"width":250,"height":60,"type":"text","text":"Test\n"},
+		{"id":"23e1ed23e17471fb","x":245,"y":-75,"width":250,"height":60,"type":"text","text":"S\n"},
+		{"id":"9f7f14833f2d7a97","x":161,"y":106,"width":250,"height":60,"type":"text","text":"S\n"},
+		{"id":"2f5095f1b49ee22f","x":528,"y":119,"width":250,"height":60,"color":"2","type":"text","text":"das\n"},
+		{"id":"64f51eb275cafb61","x":242,"y":251,"width":400,"height":400,"color":"1","type":"file","file":"Coding/Projects/DVLD.md"},
+		{"id":"54e4aa143185366a","x":-280,"y":260,"width":400,"height":400,"type":"file","file":"Images/pick-up-car.png"}
+	],
+	"edges":[
+		{"id":"76bee143ba96ba97","fromNode":"eac9803597bab227","fromSide":"right","toNode":"23e1ed23e17471fb","toSide":"left"},
+		{"id":"29d047d4c8585b88","fromNode":"23e1ed23e17471fb","fromSide":"bottom","toNode":"9f7f14833f2d7a97","toSide":"top"},
+		{"id":"071fa378dff3d9bd","fromNode":"23e1ed23e17471fb","fromSide":"right","toNode":"2f5095f1b49ee22f","toSide":"left"},
+		{"id":"7c0056e92f4e419e","fromNode":"64f51eb275cafb61","fromSide":"top","toNode":"9f7f14833f2d7a97","toSide":"bottom"},
+		{"id":"f1d43aa9d386e591","fromNode":"54e4aa143185366a","fromSide":"right","toNode":"64f51eb275cafb61","toSide":"left"}
+	]
+}

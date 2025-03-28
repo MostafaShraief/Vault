@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "003cb367f26f3ab9",
+    "type": "split",
+    "children": [
+      {
+        "id": "be38a5172d0e49fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0da078f6d27a1d73",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Excalidraw"
+              },
+              "icon": "lucide-file",
+              "title": "Excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fdb01a065191167",
+    "type": "split",
+    "children": [
+      {
+        "id": "70efa02322b5351c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "574b0f1201b602da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b34398871732c1aa",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Gemini Scribe"
+            }
+          },
+          {
+            "id": "85017934683cc1fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8207390c8fe47b80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ceeb422e03babef1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5110321044922
+  },
+  "right": {
+    "id": "300219d09d5d5c5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a005bc17cbad3b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3d6412f0410d767",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d44b52d50abbb217",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c76a1cc3334c2646",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8ead9b44cd9941e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "077ab47fa330fee2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "22fb73a7f6abd95e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-importer:Open Importer": false,
+      "gemini-scribe:Open Gemini Chat": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "22fb73a7f6abd95e",
+  "lastOpenFiles": [
+    "Excalidraw/Excalidraw.md",
+    "Vault",
+    "Vault.md",
+    "قرآن/ختمة رمضان.canvas",
+    "English/Words.md",
+    "English/English.md",
+    "قرآن/قرآن.md",
+    "Coding/Ideas/ToDo.md",
+    "Coding/Learning/Learning.md",
+    "Coding/Coding.md",
+    "English/Examples.md",
+    "export/Words/plugin/chalkboard/img/sponge.png",
+    "export/Words/plugin/chalkboard/img/whiteboard.png",
+    "export/Words/plugin/chalkboard/img/chalk-yellow.png",
+    "export/Words/plugin/chalkboard/img/chalk-white.png",
+    "export/Words/plugin/chalkboard/img/chalk-red.png",
+    "export/Words/plugin/chalkboard/img/chalk-purple.png",
+    "export/Words/plugin/chalkboard/img/chalk-orange.png",
+    "export/Words/plugin/chalkboard/img/chalk-green.png",
+    "export/Words/plugin/chalkboard/img/chalk-blue.png",
+    "export/Words/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/Words/plugin/chalkboard/_style.css",
+    "export/Words/plugin/chalkboard/style.css",
+    "export/Words/plugin/chalkboard/README.md",
+    "export/Words/plugin/chalkboard/plugin.js",
+    "export/Words/plugin/chalkboard/plugin (copy).js",
+    "export/Words/plugin/chalkboard/img",
+    "export/Words/plugin/chalkboard",
+    "export/Words/plugin/chart/README.md",
+    "export/Words/plugin/chart/plugin.js",
+    "export/Words/plugin/chart/chart.min.js",
+    "export/Words/plugin/chart",
+    "export/Words/plugin/customcontrols/README.md",
+    "export/Words/plugin/menu/README.md",
+    "export/Words/plugin/menu/CONTRIBUTING.md",
+    "English/Explanttion.md",
+    "Untitled Kanban.md",
+    "Excalidraw/C. Combination Lock - CodeForces.excalidraw.md",
+    "Images/Images.md",
+    "Coding/Ideas/Ideas.md",
+    "Coding/Projects/Projects.md",
+    "Coding/Projects/DVLD.md",
+    "English/Phrases.md",
+    "2025-03-28.md",
+    "Daily Notes/DVLD.md",
+    "gemini-scribe/gemini-scribe.md",
+    "English/Images/Untitled.canvas",
+    "قرآن/Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
