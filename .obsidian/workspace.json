@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Words.md",
+                "file": "Coding/Projects/DVLD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Words"
+              "title": "DVLD"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "2bb76405d19a0928",
+            "id": "8caa736459e10a71",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -208,12 +208,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-importer:Open Importer": false,
       "gemini-scribe:Open Gemini Chat": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "81e5f70fbe9e853a",
   "lastOpenFiles": [
+    "Coding/Projects/DVLD.md",
+    "Images/{8726D7DD-C5EE-4F2F-8EB8-2527A609A018}.png",
+    "Images/image.png",
+    "Images/image-1.png",
+    "Images/{1279529E-A402-44DF-9B54-F497ED8166F7}.png",
+    "Images/{313844B8-1671-4CD9-9AEA-9F8661C9FD45}.png",
+    "Images/Images.md",
+    "Images/{0726F4CC-F384-4588-948A-14DCFCAFEFB9}.png",
+    "image-1.jpeg",
+    "{867006ED-8591-425D-9080-4B5CF4C0824E}-1.png",
+    "{867006ED-8591-425D-9080-4B5CF4C0824E}.png",
+    "English/Examples.md",
+    "English/Words.md",
+    "Coding/Projects/Projects.md",
+    "Coding/Coding.md",
     "English/English.md",
     "Excalidraw/C. Combination Lock - CodeForces.excalidraw.md",
     "Vault.md",
@@ -221,21 +236,9 @@
     "Excalidraw/Excalidraw.md",
     "Vault",
     "قرآن/ختمة رمضان.canvas",
-    "English/Words.md",
     "Coding/Ideas/ToDo.md",
     "Coding/Learning/Learning.md",
-    "Coding/Coding.md",
-    "English/Examples.md",
     "export/Words/plugin/chalkboard/img/sponge.png",
-    "export/Words/plugin/chalkboard/img/whiteboard.png",
-    "export/Words/plugin/chalkboard/img/chalk-yellow.png",
-    "export/Words/plugin/chalkboard/img/chalk-white.png",
-    "export/Words/plugin/chalkboard/img/chalk-red.png",
-    "export/Words/plugin/chalkboard/img/chalk-purple.png",
-    "export/Words/plugin/chalkboard/img/chalk-orange.png",
-    "export/Words/plugin/chalkboard/img/chalk-green.png",
-    "export/Words/plugin/chalkboard/img/chalk-blue.png",
-    "export/Words/plugin/chalkboard/img/boardmarker-yellow.png",
     "export/Words/plugin/chalkboard/_style.css",
     "export/Words/plugin/chalkboard/style.css",
     "export/Words/plugin/chalkboard/README.md",
@@ -252,10 +255,7 @@
     "export/Words/plugin/menu/CONTRIBUTING.md",
     "English/Explanttion.md",
     "Untitled Kanban.md",
-    "Images/Images.md",
     "Coding/Ideas/Ideas.md",
-    "Coding/Projects/Projects.md",
-    "Coding/Projects/DVLD.md",
     "English/Phrases.md",
     "2025-03-28.md",
     "Daily Notes/DVLD.md",

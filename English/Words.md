@@ -1,7 +1,6 @@
 ---
-undefined: ""
-color: var(--mk-color-turquoise)
 sticker: lucide//whole-word
+color: var(--mk-color-turquoise)
 ---
 chunk | قطعة سميكة
 chunkiest | الجزء الأسمك
@@ -51,4 +50,6 @@ Pumped (عامية) | متحمس جدًا ومُتحفز [[Explanttion#5. Pumped
 
 agitation | احتجاج - اثارة - تحريض
 reform |  إصلاح - يصلح يقوّم يحسن
-Staff | طاقم - هيئة
+staff | طاقم - هيئة
+pagination | ترقيم
+verbose | مطوّل![[Examples#^ess5cp]]
